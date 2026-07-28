@@ -49,3 +49,13 @@ In addition to lots of bug fixes and being the only ViChan fork with out of the 
 
 ## Closing Remarks
 Not everything in here has been tested and I'm not certain I will improve on this release. If something is outright broken I will fix it, but I don't want the responsibility of keeping an up to date vichan fork unless there is some monetary compensation involved. This is release included as a failsafe in case I vanish and people want to recreate what I have made.
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
